@@ -1,0 +1,29 @@
+#pragma once
+#ifndef ntUIBLOCKTYPES_H_INCLUDED
+#define ntUIBLOCKTYPES_H_INCLUDED
+
+namespace ntUIBlockTypes
+{
+	extern const enum Types
+	{
+		TYPE_X_DAILY = 0,
+		TYPE_TIMER = 1,
+		TYPE_TIME_OF_DAY = 2,
+		TYPE_METEOR = 3,
+		TYPE_ICON = 4,
+		TYPE_GAME = 5,
+		TYPE_BANNER = 6,
+		TYPE_RESET = 7,
+		TYPE_ABOUT = 8,
+
+		TYPE_SETTING_BOOL = 108,
+
+		TYPE_SYSTEM_BG = 1000,
+		TYPE_SYSTEM_TIMER = 1001,
+		TYPE_SYSTEM_CHECKBOX = 1002,
+		TYPE_SYSTEM_CHECKBOX_BONUS = 1003,
+		TYPE_SYSTEM_RESET = 1004
+	};
+}
+
+#endif

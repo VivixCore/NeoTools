@@ -1,0 +1,8 @@
+//Background
+BG|/System/bg.png|xdelta|ydelta|xsize|ysize
+//Timer Icon
+TIMER|/System/timer.png|xdelta|ydelta|32|32
+//Checkbox Icon, xsize indicates the size of one on/off state
+CHECK|/System/checkbox.png|xdelta|ydelta|32|32
+//Bonus Checkbox Icon, xsize indicates the size of one on/off state
+CHECK_BONUS|/System/checkbox_bonus.png|xdelta|ydelta|32|32

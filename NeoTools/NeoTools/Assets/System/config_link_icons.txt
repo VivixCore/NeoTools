@@ -1,0 +1,174 @@
+//////////////////////////////////////////////////////////////
+//QUICK LINKS
+//////////////////////////////////////////////////////////////
+Banner|/Quick/Quicklinks.png|0|0|BANNER|0|192|32|
+
+HowTo|/About/howto.png|0|32|ICONABOUT|0|32|32|
+Modding|/About/modding.png|32|32|ICONABOUT|0|32|32|Assets\System\mods.html
+Credits|/About/credits.png|64|32|ICONABOUT|0|32|32|Assets\System\about.html
+JN Articles|/JN/articles.png|96|32|ICON|0|32|32|http://www.jellyneo.net/index.php?go=article_links
+JN Game Guides|/JN/guides.png|128|32|ICON|0|32|32|http://www.jellyneo.net/?go=links
+JN Item DB|/JN/itemdb.png|160|32|ICON|0|32|32|http://items.jellyneo.net/
+
+Inventory|/Quick/inventory.png|0|64|ICON|0|32|32|http://www.neopets.com/inventory.phtml
+Bank|/Quick/bank.png|32|64|ICON|0|32|32|http://www.neopets.com/bank.phtml
+Safety Deposit Box|/Quick/safetydepositbox.png|64|64|ICON|0|32|32|http://www.neopets.com/safetydeposit.phtml
+Stock Market|/Quick/stock.png|96|64|ICON|0|32|32|http://www.neopets.com/stockmarket.phtml?type=portfolio
+Shop Wizard|/Quick/shopwizard.png|128|64|ICON|0|32|32|http://www.neopets.com/market.phtml?type=wizard
+Auction Genie|/Quick/auctiongenie.png|160|64|ICON|0|32|32|http://www.neopets.com/genie.phtml
+
+Shop|/Quick/shop.png|0|96|ICON|0|32|32|http://www.neopets.com/market.phtml?type=your
+Shop Edit|/Quick/shopedit.png|32|96|ICON|0|32|32|http://www.neopets.com/market.phtml?type=edit
+Shop Till|/Quick/shoptill.png|64|96|ICON|0|32|32|http://www.neopets.com/market.phtml?type=till
+Gallery|/Quick/gallery.png|96|96|ICON|0|32|32|http://www.neopets.com/gallery/index.phtml
+Gallery Edit Description|/Quick/galleryeditdesc.png|128|96|ICON|0|32|32|http://www.neopets.com/gallery/gallery_desc_edit.phtml
+Gallery Edit Categories|/Quick/galleryeditcats.png|160|96|ICON|0|32|32|http://www.neopets.com/gallery/gallery_user_cats.phtml
+
+Reset|/Quick/reset.png|0|128|RESET|0|192|32
+
+//////////////////////////////////////////////////////////////
+//SETTINGS
+//////////////////////////////////////////////////////////////
+Banner|/Settings/SettingsBanner.png|0|0|BANNER|0|192|32|
+//invert mouse wheel
+//other settings? 
+
+//////////////////////////////////////////////////////////////
+//TODO WORLD MAP
+//////////////////////////////////////////////////////////////
+//Banner|/Map/WorldMapBanner.png|0|0|BANNER|0|192|32|
+//Healing Springs|healing_springs.png|x|y|TIMED|3600|32|32|
+
+//////////////////////////////////////////////////////////////
+//FREE STUFF
+//////////////////////////////////////////////////////////////
+Banner|/Free Stuff/FreeStuffBanner.png|0|0|BANNER|0|192|32|
+
+Anchor Management|/Free Stuff/anchor_management.png|0|32|DAILY|1|32|32|http://www.neopets.com/pirates/anchormanagement.phtml
+Forgotten Shore|/Free Stuff/forgotten_shore.png|64|32|DAILY|1|32|32|http://www.neopets.com/pirates/forgottenshore.phtml
+Council Chamber|/Free Stuff/council_chamber.png|128|32|DAILY|1|32|32|http://www.neopets.com/altador/council.phtml
+
+Giant Jelly|/Free Stuff/giant_jelly.png|0|64|DAILY|1|32|32|http://www.neopets.com/jelly/jelly.phtml
+Giant Omelette|/Free Stuff/giant_omelette.png|64|64|DAILY|1|32|32|http://www.neopets.com/prehistoric/omelette.phtml
+Rich Slorg|/Free Stuff/rich_slorg.png|128|64|DAILY|1|32|32|http://www.neopets.com/shop_of_offers.phtml?slorg_payout=yes
+
+Weltrude's Toy Chest|/Free Stuff/weltrudes_toy_chest.png|0|96|DAILY|1|32|32|http://www.neopets.com/petpetpark/daily.phtml
+TDMBGPoP|/Free Stuff/the_discarded_magical_blue_grundo_plushie_of_prosperity.png|64|96|DAILY|1|32|32|http://www.neopets.com/faerieland/tdmbgpop.phtml
+Monthly Freebies|/Free Stuff/monthly_freebies.png|128|96|DAILY|1|32|32|http://www.neopets.com/freebies/
+
+Advent Calendar|/Free Stuff/advent_calendar.png|0|128|DAILY|1|32|32|http://www.neopets.com/winter/adventcalendar.phtml
+//RIP CWACoM Trivia|cloudy_meatballs_sponsor.png|128|64|0|1|32|32|http://www.neopets.com/sponsors/cloudy2/
+
+//////////////////////////////////////////////////////////////
+//QUESTS
+//////////////////////////////////////////////////////////////
+//Banner|/Quests/QuestBanner.png|0|0|BANNER|0|192|32|
+//Employment Agency Quests|/Quests/TODO.png|0|32|0|5|32|32|
+
+//////////////////////////////////////////////////////////////
+//MOLTARA
+//////////////////////////////////////////////////////////////
+Banner|/Moltara/MoltaraBanner.png|0|0|BANNER|0|192|32|
+
+//Moltara|/Moltara/moltara.png|0|32|ICON|0|32|32|http://www.neopets.com/magma/index.phtml
+//Moltara|/Moltara/moltaracaves.png|32|32|ICON|0|32|32|http://www.neopets.com/magma/caves.phtml
+
+Red Worm|/Moltara/worm_red.png|0|32|DAILY|1|32|32|http://www.neopets.com/magma/index.phtml
+Orange Worm|/Moltara/worm_orange.png|64|32|DAILY|1|32|32|http://www.neopets.com/magma/index.phtml
+Yellow Worm|/Moltara/worm_yellow.png|128|32|DAILY|1|32|32|http://www.neopets.com/magma/caves.phtml
+
+Green Worm|/Moltara/worm_green.png|0|64|DAILY|1|32|32|http://www.neopets.com/magma/index.phtml
+Blue Worm|/Moltara/worm_blue.png|64|64|DAILY|1|32|32|http://www.neopets.com/magma/caves.phtml
+Purple Worm|/Moltara/worm_purple.png|128|64|DAILY|1|32|32|http://www.neopets.com/magma/caves.phtml
+
+Pink Worm|/Moltara/worm_pink.png|0|96|DAILY|1|32|32|http://www.neopets.com/magma/caves.phtml
+White Worm|/Moltara/worm_white.png|64|96|DAILY|1|32|32|http://www.neopets.com/magma/index.phtml
+Black Worm|/Moltara/worm_black.png|128|96|DAILY|1|32|32|http://www.neopets.com/magma/caves.phtml
+
+Rainbow Worm|/Moltara/worm_rainbow.png|0|128|DAILY|1|32|32|http://www.neopets.com/magma/index.phtml
+Moltara Quarry|/Moltara/moltara_quarry.png|64|128|DAILY|1|32|32|http://www.neopets.com/magma/quarry.phtml
+Dark Cave|/Moltara/dark_cave.png|128|128|DAILY|1|32|32|http://www.neopets.com/magma/darkcave.phtml
+
+////////////////////////////////////////////////////////////////////
+//SHOPS AND RESTOCKING
+////////////////////////////////////////////////////////////////////
+Banner|/Restock/RestockBanner.png|0|0|BANNER|0|192|32|
+
+Money Tree|/Restock/moneytree.png|0|32|ICON|0|32|32|http://www.neopets.com/donations.phtml
+Second-Hand Shoppe|/Restock/secondhandshoppe.png|32|32|ICON|0|32|32|http://www.neopets.com/thriftshoppe/index.phtml
+//Rubbish Dump|rubbish_dump.png|x|y|TIMED|300|32|32|
+//Igloo|TODO.png|x|y|TIMED|300|32|32|
+//todo: plushie shop
+
+////////////////
+//RNG
+////////////////
+Banner|/RNG/RNGBanner.png|0|0|BANNER|1|192|32|
+
+Apple Bobbing|/RNG/apple_bobbing.png|0|32|DAILY|1|32|32|http://www.neopets.com/halloween/applebobbing.phtml
+Deserted Tomb|/RNG/deserted_tomb.png|64|32|DAILY|1|32|32|http://www.neopets.com/worlds/geraptiku/tomb.phtml
+Fruit Machine|/RNG/fruit_machine.png|128|32|DAILY|1|32|32|http://www.neopets.com/desert/fruit/index.phtml
+
+Grumpy Old King|/RNG/grumpy_old_king.png|0|64|DAILY|1|32|32|http://www.neopets.com/medieval/grumpyking.phtml
+Wise Old King|/RNG/wise_old_king.png|64|64|DAILY|1|32|32|http://www.neopets.com/medieval/wiseking.phtml
+Tombola|/RNG/tombola.png|128|64|DAILY|1|32|32|http://www.neopets.com/island/tombola.phtml
+
+Symol Hole|/RNG/symol_hole.png|0|96|DAILY|1|32|32|http://www.neopets.com/medieval/symolhole.phtml
+Turmaculus|/RNG/turmaculus.png|64|96|DAILY|1|32|32|http://www.neopets.com/medieval/turmaculus.phtml
+Meteor|/RNG/meteor.png|128|96|DAILY|1|32|32|http://www.neopets.com/moon/meteor.phtml
+
+Qasalan Expellibox|/RNG/qasalan_expellibox.png|0|128|TIMED|28800|32|32|http://ncmall.neopets.com/mall/shop.phtml?page=giveaway
+Coltzan|/RNG/coltzans_shrine.png|0|160|TIMED|43200|32|32|http://www.neopets.com/desert/shrine.phtml
+Ye Olde Fishing Vortex|/RNG/ye_olde_fishing_vortex.png|0|192|TIMED|-1|32|32|http://www.neopets.com/water/fishing.phtml
+
+////////////////////////////////////////////////////////////////////
+//GAMBLING
+////////////////////////////////////////////////////////////////////
+Banner|/Gambling/GamblingBanner.png|0|0|BANNER|0|192|32|
+
+Faerie Caverns|/Gambling/faeriecaverns.png|0|32|DAILY|1|32|32|http://www.neopets.com/faerieland/caverns/index.phtml
+Lottery|/Gambling/lottery.png|64|32|DAILY|1|32|32|http://www.neopets.com/games/lottery.phtml
+Scarab 21|/Gambling/scarab21.png|128|32|DAILY|1|32|32|http://www.neopets.com/games/game.phtml?game_id=70
+
+Buried Treasure|/Gambling/buriedtreasure.png|0|64|TIMED|10800|32|32|http://www.neopets.com/pirates/buriedtreasure/index.phtml
+//Test Your Strength|/Games/strengthtest.png|0|96|TIMED|21600|32|32|http://www.neopets.com/halloween/strtest/index.phtml
+Desert Scratch Tickets|/Gambling/scratchtickets.png|0|96|TIMED|14400|32|32|http://www.neopets.com/desert/sc/kiosk.phtml
+
+////////////////////////////////////////////////////////////////////
+//WHEELS
+////////////////////////////////////////////////////////////////////
+Banner|/Wheels/WheelBanner.png|0|0|BANNER|0|192|32|
+
+Wheel of Mediocrity|/Wheels/mediocrity.png|0|32|TIMED|2400|32|32|http://www.neopets.com/prehistoric/mediocrity.phtml
+//Wheel of Excitement|/Wheels/excitement.png|0|64|TIMED|7200|32|32|http://www.neopets.com/faerieland/wheel.phtml
+Wheel of Slime|/Wheels/slime.png|0|64|TIMED|28800|32|32|http://www.neopets.com/games/game.phtml?game_id=983
+
+Wheel of Monotony|/Wheels/monotony.png|0|96|DAILY|1|32|32|http://www.neopets.com/prehistoric/monotony/monotony.phtml
+Wheel of Knowledge|/Wheels/knowledge.png|64|96|DAILY|1|32|32|http://www.neopets.com/medieval/knowledge.phtml
+Wheel of Extravagance|/Wheels/extravagance.png|128|96|DAILY|1|32|32|http://www.neopets.com/desert/extravagance.phtml
+
+////////////////////////////////////////////////////////////////////
+//TIME OF DAY STUFF
+////////////////////////////////////////////////////////////////////
+//Magma Pool|magma_pool.png|x|y|2|TODO|32|32|
+//Snowager|snowager.png|x|y|2|TODO|32|32|
+
+////////////////////////////////////////////////////////////////////
+//GAMES
+////////////////////////////////////////////////////////////////////
+Banner|/Games/GamesBanner.png|0|0|BANNER|0|192|32|
+
+Adver-Video|/Games/adver.png|0|32|DAILY|1|32|32|http://www.neopets.com/games/game.phtml?game_id=1270
+Daily Puzzle|/Games/dailypuzzle.png|64|32|DAILY|1|32|32|http://www.neopets.com/community/
+Faerie Crossword|/Games/fairyxword.png|128|32|DAILY|1|32|32|http://www.neopets.com/games/crossword/index.phtml
+
+Lunar Temple|/Games/lunar_temple.png|0|64|DAILY|1|32|32|http://www.neopets.com/shenkuu/lunar/
+Mysterious Negg Cave|/Games/neggcave.png|64|64|DAILY|1|32|32|http://www.neopets.com/shenkuu/neggcave/
+Potato Counter|/Games/potatocounter.png|128|64|DAILY|1|32|32|http://www.neopets.com/medieval/potatocounter.phtml
+
+Hide-N-Seek|/Games/hidenseek.png|0|96|ICON|0|32|32|http://www.neopets.com/games/hidenseek.phtml
+
+Assignment 53|/Games/a53-4.png|0|128|GAME|3|32|32|http://www.neopets.com/games/game.phtml?game_id=1347
+Extreme Potato Counter|/Games/extremepotato.png|0|160|GAME|3|32|32|http://www.neopets.com/games/game.phtml?game_id=226
+Smug Bug Smite|/Games/smugbug.png|0|192|GAME|3|32|32|http://www.neopets.com/games/game.phtml?game_id=933
+Wrath of the Snowager|/Games/snowager.png|0|224|GAME|3|32|32|http://www.neopets.com/games/game.phtml?game_id=1269
